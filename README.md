@@ -1,20 +1,10 @@
-# 🎭 Playwright
+
 
 A modern **Playwright + TypeScript** automation framework built and maintained.
 This repository serves as a professional and extendable base for end-to-end web automation projects — designed with scalability, clarity, and best practices in mind.
 
----
 
 
-## 🧩 Tech Stack
-|------|----------|
-| **Playwright** | Web automation framework |
-| **TypeScript** | Strongly-typed scripting language |
-| **Node.js / npm** | Package management & runtime |
-| **Allure / HTML Reporter** | (To be added) Test result visualization |
-| **ESLint / Prettier** | (To be added) Code style and linting |
-
----
 
 ## ⚙️ Project Setup
 
